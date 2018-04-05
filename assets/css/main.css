@@ -302,6 +302,7 @@
 
 		form > .actions {
 			margin: 1.875rem 0 0 0 !important;
+			float: left;
 		}
 
 		@media screen and (max-width: 736px) {
