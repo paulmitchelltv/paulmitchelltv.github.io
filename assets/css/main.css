@@ -656,6 +656,14 @@
 				width: 100%;
 			}
 
+		.image.center {
+   			 display: block;
+    		margin-left: auto;
+    		margin-right: auto;
+   			width: 50%;
+   			height: 50%;
+		}
+
 		.image.main {
 			display: block;
 			margin: 2.5rem 0;
