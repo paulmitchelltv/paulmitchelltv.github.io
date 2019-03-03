@@ -1,31 +1,11 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Designed by Zerotheme
+Website : http://www.zerotheme.com
+Zerogrid System for Responsive Design - http://www.zerotheme.com/zerogrid-a-simple-grid-system-for-responsive-design
+Contact Form Ready to use - Open file contact.php and change your email.
 
-
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		Misc. Sass functions (@HugoGiraudel)
-		Skel (skel.io)
+/*----License----*/
++ You have the rights to use the resources for personal and commercial project(s) purposes.
++ You are not allowed to remove back link at the footer in template. You should contact us about this. http://www.zerotheme.com/contact-us
++ You are allowed to remove back link with basic templates. You can find basic templates at http://www.zerotheme.com/free-basic-responsive-html5-themes
++ You can not resell, redistribute, license, or sub-license any of the templates without direct permission from Zerotheme.com.
++ You are not allowed to provide direct link to download or preview template. You must link back to Zerotheme template page where users can find the download and preview template.
