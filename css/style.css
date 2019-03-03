@@ -26,7 +26,7 @@ html{
 /**** We put pattern mask in body ***/
 body{
 	margin:0;
-	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAG0lEQVQIW2NkYGB4BsQogBGXYBo2lVgFqW0mAAMyBTnkxKBjAAAAAElFTkSuQmCC) repeat;
+	/*background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAG0lEQVQIW2NkYGB4BsQogBGXYBo2lVgFqW0mAAMyBTnkxKBjAAAAAElFTkSuQmCC) repeat;*/
 	text-align: center;
 	text-transform: uppercase;
 	background-position: center;
