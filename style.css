@@ -2445,7 +2445,7 @@ embed, iframe, object {
 	transition: all ease-in-out 2s;
 }
 #home-banner span {
-	color: #fff;
+	color: #000;
 	font-weight: 400;
 	font-size: 18px;
 	letter-spacing: 0.8px;
