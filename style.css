@@ -3210,8 +3210,8 @@ ul.about-features li:hover i {
 	position: absolute;
 	top: 50%;
 	left: 50%;
-/*	margin-top: 50%;
-	margin-left: -100px;*/
+	/*margin-top: 50%;*/
+	margin-left: -100px;
 	text-align: center;
 	width: 200px;
 	-webkit-transform: translate(0px, 15px);
