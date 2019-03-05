@@ -290,7 +290,7 @@ a.navbar-brand:hover span {
 }
 .nav-view {
 	transition: .5s ease-in-out;
-	width: 90% !important;
+	width: 100% !important;
 	display:inline-block;
 }
 #nav-top {
@@ -322,7 +322,7 @@ a.navbar-brand:hover span {
 #nav-icon span {
 	display: block;
 	position: absolute;
-	height: 20%;
+	height: 75px;
 	width: 100%;
 	background: #fff;
 	border-radius: 0px;
