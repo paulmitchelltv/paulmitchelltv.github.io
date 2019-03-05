@@ -3064,6 +3064,192 @@ ul.about-features li:hover i {
 	border: 2px #ff5959 solid;
 	background: #fff;
 }
+
+
+#our-work2-block {
+	padding: 80px 0 160px;
+}
+#our-work2-block h2 {
+	font-size: 32px;
+	color: #404040;
+	font-weight: 600;
+	margin-bottom: 10px;
+	display: block;
+	max-width: 600px;
+	margin: 0 auto;
+	position: relative;
+	z-index: 2;
+}
+#our-work2-block h2:after {
+	border: 1px #CCC solid;
+	width: 64px;
+	height: 64px;
+	content: "";
+	display: inline-block;
+	position: absolute;
+	margin-top: -12px;
+	left: 45%;
+	transform: rotate(136deg);
+	z-index: -1;
+}
+#our-work2-block .section-title, #process-block .section-title{
+	margin-bottom: 120px;
+}
+#our-work2-block .section-title p {
+	color: #fff;
+	font-size: 16px;
+	max-width: 800px;
+	margin: 0 auto;
+	font-family: 'PT Serif', serif;
+	margin-top: 50px;
+}
+#our-work2-block .works ul {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+#our-work2-block .works ul li {
+	float: left;
+	min-height: 100%;
+	width: 31%;
+	margin: 10px;
+	list-style: none;
+}
+#our-work2-block .works figure {
+	position: relative;
+	overflow: hidden;
+}
+#our-work2-block .works figure img {
+	width: 100%;
+	height: 100%;
+	max-height: 312px;
+	min-height: 312px;
+	overflow: hidden;
+	object-fit: cover;
+	-webkit-transition: all 300ms ease-in-out;
+	transition: all 300ms ease-in-out;
+}
+.page #our-work2-block .works figure img, .single #our-work2-block .works figure img {
+	border-radius: 0;
+	margin-top: auto;
+}
+#our-work2-block .works figure:hover img, #our-work2-block .works figure:focus img {
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+}
+#our-work2-block .works figcaption {
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding: 25% 0;
+	width: 89%;
+	height: 89%;
+	background-color: #fff;
+	text-align: center;
+	font-size: 15px;
+	margin: 20px;
+	opacity: 0;
+	-webkit-transition: all 300ms ease-in-out;
+	transition: all 300ms ease-in-out;
+}
+#our-work2-block .works figcaption a {
+	color: #fff
+}
+#our-work2-block .works figcaption a:hover, #our-work2-block .works figcaption a:focus {
+	color: #73d0da
+}
+#our-work2-block .works figure:hover figcaption, #our-work2-block .works figure:focus figcaption {
+	opacity: 1
+}
+.visible {
+	opacity: 1
+}
+#our-work2-block .works figure.cs-hover figcaption {
+	opacity: 1
+}
+#our-work2-block .works figcaption i {
+	font-size: 35px
+}
+#our-work2-block .works figcaption h6 {
+	margin-bottom: 0;
+	text-transform: uppercase;
+	color: #4c4c4c;
+}
+#our-work2-block .works figcaption hr {
+	content: "";
+	display: block;
+	width: 20%;
+	height: 1px;
+	background: #000;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+#our-work2-block .works figcaption .caption-content a {
+	color: #6f6f6f;
+	text-transform: uppercase;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'PT Serif', serif;
+}
+#our-work2-block .works figcaption .caption-content a:hover {
+	text-decoration: none;
+	color: #ff4a5d;
+	transition: all 300ms ease-in-out;
+}
+#our-work2-block .works figcaption .caption-content {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -60px;
+	margin-left: -100px;
+	text-align: center;
+	width: 200px;
+	-webkit-transform: translate(0px, 15px);
+	-ms-transform: translate(0px, 15px);
+	transform: translate(0px, 15px);
+	-webkit-transition: all 300ms ease-in-out;
+	transition: all 300ms ease-in-out;
+}
+#our-work2-block .works figure:hover figcaption .caption-content, #our-work2-block .works figure:focus figcaption .caption-content {
+	-webkit-transform: translate(0px, 0px);
+	-ms-transform: translate(0px, 0px);
+	transform: translate(0px, 0px);
+}
+#our-work2-block .works figure figcaption .work-more li {
+	display: inline-block;
+	list-style: none;
+	min-width: inherit;
+	width: auto;
+	float: none;
+	min-height: inherit;
+	margin: 10px 5px;
+}
+#our-work2-block .works figure figcaption .work-more li a {
+	background: #ff4a5d;
+	border-radius: 50%;
+	font-size: 12px;
+	color: #fff;
+	padding: 6px 10px;
+	transition: all 300ms ease-in-out;
+}
+#our-work2-block .works figure figcaption .work-more li a i {
+	font-size: 12px;
+	color: #fff;
+}
+#our-work2-block .works figure figcaption .work-more li a:hover {
+	padding: 10px 13px;
+	transition: all 300ms ease-in-out;
+}
+
+
+
+
+
+
+
+
 #latest-news-block {
 	padding: 80px 0 160px;
 	background: #f6f6f6;
