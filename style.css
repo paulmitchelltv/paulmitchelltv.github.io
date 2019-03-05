@@ -290,7 +290,7 @@ a.navbar-brand:hover span {
 }
 .nav-view {
 	transition: .5s ease-in-out;
-	width: 50% !important;
+	width: 40% !important;
 	display: inline-block;
 }
 #nav-top {
