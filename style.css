@@ -2553,7 +2553,7 @@ embed, iframe, object {
 	margin-top: 50px;
 }
 .section-title a {/*position:relative; margin-top:-64px; margin-right:8px;*/
-	float: right;
+	float: center; 
 	/*padding: 12px 50px;*/
 	font-size: 11px;
 	line-height: 1.42857143;
