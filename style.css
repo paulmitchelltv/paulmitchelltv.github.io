@@ -2565,12 +2565,12 @@ embed, iframe, object {
 	color: #404040;
 	text-transform: uppercase;
 	font-weight: 600;
-	letter-spacing: 0.8px;
+	letter-spacing: 0.1px;
 	margin-top: -43px;
 	text-align: right;
 }
 .section-title a:hover {
-	background-color: #ff4a5b;
+	background-color: #000000;
 	border: 2px #ff4a5b solid;
 	color: #fff;
 	transition: all 0.6s;
