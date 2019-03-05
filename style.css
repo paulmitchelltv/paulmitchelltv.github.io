@@ -2554,14 +2554,14 @@ embed, iframe, object {
 }
 .section-title a {/*position:relative; margin-top:-64px; margin-right:8px;*/
 	float: right;
-	padding: 12px 50px;
+	/*padding: 12px 50px;*/
 	font-size: 11px;
 	line-height: 1.42857143;
 	border-radius: 0px;
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	background-color: transparent;
-	border: 2px #d9d9d9 solid;
+	/*border: 2px #d9d9d9 solid;*/
 	color: #404040;
 	text-transform: uppercase;
 	font-weight: 600;
