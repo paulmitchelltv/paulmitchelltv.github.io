@@ -3065,7 +3065,7 @@ ul.about-features li:hover i {
 	background: #fff;
 }
 #latest-news-block {
-	padding: 130px 0 160px;
+	padding: 80px 0 160px;
 	background: #f6f6f6;
 }
 #latest-news-block h2 {
@@ -3091,6 +3091,12 @@ ul.about-features li:hover i {
 	transform: rotate(136deg);
 	z-index: -1;
 }
+
+#latest-news-block .section-title, #process-block .section-title{
+	margin-bottom: 120px;
+}
+
+
 #latest-news-block .section-title {
 	margin-bottom:150px;
 	display: block;
@@ -3103,6 +3109,154 @@ ul.about-features li:hover i {
 	font-family: 'PT Serif', serif;
 	margin-top: 50px;
 }
+
+
+#latest-news-block .works ul {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+#latest-news-block .works ul li {
+	float: left;
+	min-height: 100%;
+	width: 31%;
+	margin: 10px;
+	list-style: none;
+}
+#latest-news-block .works figure {
+	position: relative;
+	overflow: hidden;
+}
+#latest-news-block .works figure img {
+	width: 100%;
+	height: 100%;
+	max-height: 312px;
+	min-height: 312px;
+	overflow: hidden;
+	object-fit: cover;
+	-webkit-transition: all 300ms ease-in-out;
+	transition: all 300ms ease-in-out;
+}
+.page #latest-news-block .works figure img, .single #our-work-block .works figure img {
+	border-radius: 0;
+	margin-top: auto;
+}
+#latest-news-block .works figure:hover img, #our-work-block .works figure:focus img {
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+}
+#latest-news-block .works figcaption {
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding: 25% 0;
+	width: 89%;
+	height: 89%;
+	background-color: #fff;
+	text-align: center;
+	font-size: 15px;
+	margin: 20px;
+	opacity: 0;
+	-webkit-transition: all 300ms ease-in-out;
+	transition: all 300ms ease-in-out;
+}
+#latest-news-block .works figcaption a {
+	color: #fff
+}
+#latest-news-block .works figcaption a:hover, #our-work-block .works figcaption a:focus {
+	color: #73d0da
+}
+#latest-news-block .works figure:hover figcaption, #our-work-block .works figure:focus figcaption {
+	opacity: 1
+}
+.visible {
+	opacity: 1
+}
+#latest-news-block .works figure.cs-hover figcaption {
+	opacity: 1
+}
+#latest-news-block .works figcaption i {
+	font-size: 35px
+}
+#latest-news-block .works figcaption h6 {
+	margin-bottom: 0;
+	text-transform: uppercase;
+	color: #4c4c4c;
+}
+#latest-news-block .works figcaption hr {
+	content: "";
+	display: block;
+	width: 20%;
+	height: 1px;
+	background: #000;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+#latest-news-block .works figcaption .caption-content a {
+	color: #6f6f6f;
+	text-transform: uppercase;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'PT Serif', serif;
+}
+#latest-news-block .works figcaption .caption-content a:hover {
+	text-decoration: none;
+	color: #ff4a5d;
+	transition: all 300ms ease-in-out;
+}
+#latest-news-block .works figcaption .caption-content {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -60px;
+	margin-left: -100px;
+	text-align: center;
+	width: 200px;
+	-webkit-transform: translate(0px, 15px);
+	-ms-transform: translate(0px, 15px);
+	transform: translate(0px, 15px);
+	-webkit-transition: all 300ms ease-in-out;
+	transition: all 300ms ease-in-out;
+}
+#latest-news-block .works figure:hover figcaption .caption-content, #latest-news-block .works figure:focus figcaption .caption-content {
+	-webkit-transform: translate(0px, 0px);
+	-ms-transform: translate(0px, 0px);
+	transform: translate(0px, 0px);
+}
+#latest-news-block .works figure figcaption .work-more li {
+	display: inline-block;
+	list-style: none;
+	min-width: inherit;
+	width: auto;
+	float: none;
+	min-height: inherit;
+	margin: 10px 5px;
+}
+#latest-news-block .works figure figcaption .work-more li a {
+	background: #ff4a5d;
+	border-radius: 50%;
+	font-size: 12px;
+	color: #fff;
+	padding: 6px 10px;
+	transition: all 300ms ease-in-out;
+}
+#latest-news-block .works figure figcaption .work-more li a i {
+	font-size: 12px;
+	color: #fff;
+}
+#latest-news-block .works figure figcaption .work-more li a:hover {
+	padding: 10px 13px;
+	transition: all 300ms ease-in-out;
+}
+
+
+
+
+
+
+
 #latest-news-block article img {
 	min-height: 163px;
 	max-height: 163px;
