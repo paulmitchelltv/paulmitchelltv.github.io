@@ -290,13 +290,10 @@ a.navbar-brand:hover span {
 }
 .nav-view {
 	transition: .5s ease-in-out;
-<<<<<<< HEAD
 	width: 100% !important;
 	display: inline-block;
-=======
 	width: 80% !important;
 	display:inline-block;
->>>>>>> parent of cd18f66... view
 }
 #nav-top {
 	transition: .5s ease-in-out;
