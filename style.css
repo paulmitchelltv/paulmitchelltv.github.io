@@ -2666,7 +2666,7 @@ ul.about-features li:hover i {
 	position: relative;
 	z-index: 2;
 }
-#our-work-block h2:after {
+/*#our-work-block h2:after {
 	border: 1px #CCC solid;
 	width: 64px;
 	height: 64px;
@@ -2677,7 +2677,7 @@ ul.about-features li:hover i {
 	left: 45%;
 	transform: rotate(136deg);
 	z-index: -1;
-}
+}*/
 #our-work-block .section-title, #process-block .section-title{
 	margin-bottom: 120px;
 }
